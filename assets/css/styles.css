@@ -20,27 +20,34 @@ body {
 .list-group-item {
   font-weight: lighter;
 }
+
 .task-check {
   margin-right: 10px;
 }
+
 .task-text {
   cursor: pointer;
   font-size: 32px;
   line-height: 42px;
 }
+
 .task-completed {
   text-decoration: line-through;
 }
+
 .time-created {
   margin-left: 20px;
 }
+
 .priority-meta {
   margin: 20px 0 0 10px;
 }
+
 .priority-label {
   cursor: pointer;
   margin-left: 4px;
 }
+
 .priority-label.inactive {
   color: #777;
 }
