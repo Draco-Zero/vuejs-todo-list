@@ -72,5 +72,9 @@ body {
 }
 
 .label-academy {
+    background-color: #03a9f4
+}
+
+.label-em {
     background-color: red
 }
